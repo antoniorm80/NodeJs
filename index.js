@@ -1,1 +1,5 @@
-console.log("Curso de Node")
+// CommonJs
+const { sum } = require('./sum')
+
+console.log(sum(1, 2))
+

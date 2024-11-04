@@ -1,0 +1,12 @@
+Curso de Node, impartido por Miguel Duran (midu) 💆 
+REPL (Read Eval Print Loop)
+    Te permite 🤞 al escribir va leyendo evaluando e imprimiendo
+NODE: Es un Entorno de ejecución de Javascrpt (No es un lenguaje de Programación)
+
+Para ejecutar código desde la terminal se coloca: node index.js
+
+Variables:
+1.- globalThis o global
+   Es una variable global en toda nuestra aplicación y se usa en la mayoria de los navegadores y programas 🤞
+
+
